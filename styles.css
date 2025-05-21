@@ -1,0 +1,38 @@
+body{
+  padding: 50px;
+}
+.title {
+	color: rgb(142, 168, 226);
+	font:montserrat-;
+}
+h1{
+  font-family:Montserrat;
+  font-size: 50px;
+  margin: 0px;
+}
+
+p{
+  margin: 0px;
+  font-family:Quicksand;
+  font-size: 25px;
+  text-align: left
+}
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+header{
+  background-color: white;
+}
+}
